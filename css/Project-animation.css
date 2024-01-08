@@ -1,0 +1,71 @@
+.text-nav a:hover {
+  color: #555555;
+  transition: 0.4s;
+  border-bottom: 3px solid;
+  border-bottom-color: #555555;
+}
+
+.one-input a:hover {
+  transform: scale(1.2);
+  transition: 1s;
+}
+
+.few-inputs a:hover p {
+  color: #555555;
+  transition: 0.4s;
+}
+
+.arrow:hover span {
+  margin-left: 1vw;
+  transition: 0.7s;
+}
+
+.business-plan a:hover p {
+  transform: scale(1.2);
+  transition: 0.4s;
+}
+
+.business-plan a:hover {
+  background-color: #ffc107;
+  transition: 0.4s;
+}
+
+.find-index-button a:hover {
+  background-color: #ffc107;
+  transition: 0.4s;
+}
+
+.find-index-button a:hover p {
+  transform: scale(1.2);
+  transition: 0.4s;
+}
+
+.news1 .news-group1-img:hover {
+  rotate: 360deg;
+  transition: 1.5s;
+}
+
+.news2 .news-group1-img:hover {
+  transform: scale(1.1);
+  transition: 0.8s;
+}
+
+.news3 .news-group1-img:hover {
+  transform: scale(1.1);
+  transition: 0.8s;
+}
+
+.news4 .news-group1-img:hover {
+  transform: scale(1.1);
+  transition: 0.8s;
+}
+
+.for-legal-entities-link a:hover p {
+  color: #555555;
+  transition: 0.4s;
+}
+
+.footer-group-text a:hover {
+  color: #FFF;
+  transition: 0.4s;
+}

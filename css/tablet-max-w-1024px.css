@@ -1,0 +1,326 @@
+@media screen and (max-width: 1024px) and (min-width: 481px)  {
+  header .logo {
+    margin: 2.5vh 0 0 5vw;
+    height: 5vh;
+  }
+
+  header a img {
+    width: 18vw;
+  }
+
+  nav {
+    height: 5vh;
+    width: 100vw;
+  }
+
+  .text-nav {
+    margin-left: 5vw;
+    width: 60vw;
+    justify-content: space-between;
+  }
+
+  .pre-pay {
+    height: 35vh;
+  }
+
+  .pre-pay-text {
+    padding: 3vh 0 0 5vw ;
+    height: 15vh;
+  }
+
+  .one-input {
+    padding: 0 0 0 4vw;
+    top: 4vh;
+  }
+
+  .one-input input {
+    height: 6vh;
+    width: 50vw;
+  }
+
+  .one-input a {
+    right: -5vw;
+    top: -0.6vh;
+  }
+
+  .few-inputs {
+    flex-wrap: wrap;
+    width: 90vw;
+    padding: 0;
+    margin: 0 0 0 4vw;
+    justify-content: space-between;
+    top: 6vh;
+
+  }
+
+  .few-inputs a {
+    width: 44vw;
+    height: 6vh;
+  }
+
+  .third-input, .fourth-input {
+    margin-top: 1.5vh;
+  }
+
+  .first-input img {
+    left: 12vw;
+    top: 2vh;
+  }
+
+  .second-input img {
+    left: 59vw;
+    top: 2vh;
+  }
+
+  .third-input img {
+    left: 12.5vw;
+    top: 9.3vh;
+  }
+
+  .fourth-input img {
+    left: 58vw;
+    top: 9.3vh;
+  }
+
+  .services {
+    margin-top: 8vh;
+    display: block;
+    padding-left: 5vw;
+    width: 95vw;
+    height: 55vh;
+  }
+
+  .first-paragraph h2 {
+    width: 80vw;
+  }
+
+  .first-paragraph p {
+    width: 90vw;
+  }
+
+  .second-paragraph {
+    justify-content: center;
+    width: 95vw;
+    flex-direction: column;
+  }
+
+  .second-paragraph-part1 {
+    display: flex;
+    width: 90vw;
+    justify-content: space-between;
+  }
+
+  .second-paragraph-part2 {
+    display: flex;
+    width: 90vw;
+    justify-content: space-between;
+    padding: 0;
+  }
+
+  .second-paragraph-part1-group1, .second-paragraph-part1-group2, .second-paragraph-part1-group3 {
+    width: 30vw;
+  }
+
+  .second-paragraph-part2-group1, .second-paragraph-part2-group2, .second-paragraph-part2-group3 {
+    width: 30vw;
+  }
+
+  #arrow5 {
+    margin-top: 4vh;
+  }
+
+  .arrow p {
+    width: 10vw;
+  }
+
+  .business-plan {
+    height: 35vh;
+  }
+
+  .business-plan-text {
+    left: 5vw;
+  }
+
+  .business-plan-text a {
+    margin-top: 3vh;
+    width: 45vw;
+    height: 6vh;
+  }
+
+  .financial-services {
+    height: 65vh;
+  }
+
+  .financial-services-board1 {
+    height: 20vh;
+    width: 90vw;
+  }
+
+  .financial-services .financial-services-board1 h3 {
+    font-size: 20px;
+  }
+
+  .financial-services .financial-services-board1 .fin-text1 {
+    width: 80vw;
+  }
+
+  .financial-services .financial-services-board1 .arrow-a {
+    width: 80vw;
+    margin-left: 1vw;
+  }
+
+  .financial-services .financial-services-board1 .arrow-a .arrow p {
+    width: 12vw;
+  }
+
+  .financial-services-board2 {
+    height: 20vh;
+    width: 90vw;
+  }
+
+  .financial-services-board2 h2 {
+    margin-top: 5vh;
+  }
+
+  .financial-services-board2-text .group3 .arrow p {
+    margin-top: 4.5vh;
+  }
+
+  .find-index {
+    height: 40vh;
+  }
+
+  .find-index-text {
+    width: 90vw;
+  }
+
+  .find-index-inputs {
+    margin-top: 5vh;
+    width: 90vw;
+  }
+
+  .find-index-one-input input {
+    height: 7vh;
+  }
+
+  .find-index-button a {
+    height: 7vh;
+  }
+
+  .news {
+    margin: 3vh 0 0 5vw;
+    width: 95vw;
+    height: 80vh;
+  }
+
+  .news-group1, .news-group2 {
+    height: 43vh;
+  }
+
+  .news-group2 {
+    margin-top: 3vh;
+  }
+
+  .news-group {
+    display: block;
+    width: 90vw;
+  }
+
+  .news1, .news2, .news3, .news4 {
+    width: 90vw;
+    height: 20vh;
+  }
+
+  .news1-box {
+    width: 80vw;
+    justify-content: flex-start;
+  }
+
+  .news4 .news1-box {
+    width: 80vw;
+    justify-content: flex-start;
+    margin-left: 0;
+  }
+
+  .news-group1-text {
+    margin-left: 2vw;
+  }
+
+  .news-group1-text .news-text1 {
+    width: 70vw;
+  }
+
+  .news1 .news-date-text-bottom {
+    width: 80vw;
+  }
+
+  .news2 .news-date-text-bottom {
+    width: 80vw;
+  }
+
+  .news3 .news-date-text-bottom {
+    width: 80vw;
+  }
+
+  .news4 .news-date-text-bottom {
+    width: 80vw;
+  }
+
+  .for-legal-entities {
+    margin-left: 5vw;
+  }
+
+  .for-legal-entities-text {
+    margin-top: 20vh;
+  }
+
+  .for-legal-entities-links {
+    margin: 0 0 5vh 5vw;
+    width: 90vw;
+  }
+
+  .for-legal-entities-link {
+    width: 40vw;
+    flex-wrap: wrap;
+  }
+
+  .for-legal-entities-links .for-legal-entities-link a {
+    width: 40vw;
+    height: 6vh;
+    margin-top: 2vh;
+  }
+
+  .online-services {
+    height: 40vh;
+  }
+
+  .online-services-group {
+    margin: 6vh 0 0 5vw;
+  }
+
+  .online-services-links-stores {
+    width: 35vw;
+  }
+
+  .online-services-links-stores .download {
+    margin: 0.5vh 0 0 6vw;
+  }
+
+  .online-services-chat-bot p {
+    margin-top: 2vh;
+  }
+
+  .online-services-chat-bot-links {
+    width: 13vw;
+  }
+
+  footer {
+    height: 65vh;
+  }
+
+  .footer-group-text {
+    margin: 3vh 0 0 5vh;
+    height: 55vh;
+  }
+
+}
